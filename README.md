@@ -65,7 +65,3 @@ MySQL • MongoDB • Matplotlib • Tkinter • Raylib • PicoGK
 - **GitHub**: You're already here  
 
 ---
-
-<div align="center" style="margin-top: 40px; opacity: 0.6; font-size: 0.9em;">
-  Minimal by design. Inspired by Teenage Engineering + Starfield.
-</div>
