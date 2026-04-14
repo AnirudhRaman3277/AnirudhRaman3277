@@ -1,6 +1,6 @@
 <div align="center">
 
-# ANIRUDH RAMAN
+# ANIRUDH GANAPATHY RAMAN
 
 **Quantum Computing • Game Development**
 
