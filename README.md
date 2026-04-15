@@ -70,7 +70,3 @@ MySQL • MongoDB • Matplotlib • Tkinter • PicoGK
 - **LinkedIn**: [linkedin.com/in/anirudh-raman3277](https://www.linkedin.com/in/anirudh-raman3277)
 
 ---
-
-<div align="center" style="margin-top: 50px; opacity: 0.65; font-size: 0.9em;">
-  Minimal by design. Cosmic by nature.
-</div>
